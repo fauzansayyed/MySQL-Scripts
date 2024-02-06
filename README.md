@@ -5,20 +5,17 @@ MySQL
 
 Welcome to the MySQL Database Management project! This project focuses on managing databases using MySQL, a powerful open-source relational database management system. By leveraging MySQL, users can store, retrieve, and manipulate structured data efficiently.
 
+## Code
+
+You can find the final code file [here](https://github.com/fauzansayyed/MySQL-Scripts/blob/main/JoinGroupByOrderBy.sql).
+
+
 ## Overview
 
 **Effective Data Management:**
 With MySQL, this project aims to facilitate effective data management by providing robust tools for creating, organizing, and maintaining databases. From simple data storage to complex relational structures, MySQL offers versatility to address diverse data management needs.
 
-**Scalability and Performance:**
-MySQL is renowned for its scalability and performance capabilities, making it suitable for handling large-scale databases and high-traffic applications. By optimizing database design and utilizing MySQL's features, users can ensure smooth performance and scalability as their data grows.
-
 ## Features
-
-### Data Modeling
-- Utilize MySQL's schema design tools to create efficient data models tailored to specific application requirements.
-- Implement relational structures, indexes, and constraints to enforce data integrity and optimize query performance.
-
 
 #### SQL Operations
 1. **JOIN:** Combine data from multiple tables based on related columns for comprehensive analysis.
