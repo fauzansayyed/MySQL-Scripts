@@ -1,4 +1,3 @@
-#09-07-2022 start
 Use employees;
 select distinct title from titles;
 #if employee is staff or engineer 'Assitant Eengineer' mmarked it as entry level
